@@ -6,3 +6,5 @@ decâ = m1 ** 1
 quilô = m1 ** 3
 decí = m1 ** -1
 print('centímetros {} \n milímetros {} \nhectômetros {} \ndecâmetro {} \nkilômetros \ndecímetros {}'.format(c, mili, hectô, decâ, quilô, decí))
+
+#test
